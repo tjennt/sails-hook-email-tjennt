@@ -1,7 +1,13 @@
 # sails-hook-email-tjennt
 
-### Sails hook email customize host, port mailer
-  config in config/email.js
+Email hook for Sails JS, using Nodemailer
+
+Note: This requires Sails v0.10.6+.
+
+### Installation
+npm install sails-hook-email
+
+### Config in config/email.js
 ```
   module.exports.email = {
     service: 'Gmail',
