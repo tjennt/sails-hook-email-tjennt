@@ -1,5 +1,5 @@
 {
-  "name": "tjennt-sails-hook-email",
+  "name": "sails-hook-email-tjennt",
   "version": "1.0.0",
   "description": "Hook email customize by tjennt",
   "main": "index.js",
@@ -16,7 +16,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "tjennt-sails-hook-email"
+    "sails-hook-email-tjennt"
   ],
   "author": "tjennt",
   "license": "ISC",
