@@ -1,6 +1,6 @@
 {
   "name": "sails-hook-email-tjennt",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Hook email customize by tjennt",
   "main": "index.js",
   "dependencies": {
@@ -23,5 +23,5 @@
   ],
   "author": "tjennt",
   "license": "ISC",
-  "homepage": "https://github.com/tjennt/tjennt-sails-hook-email"
+  "homepage": "https://github.com/tjennt/sails-hook-email-tjennt"
 }

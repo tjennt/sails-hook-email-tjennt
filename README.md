@@ -5,7 +5,7 @@ Email hook for Sails JS, using Nodemailer
 Note: This requires Sails v0.10.6+.
 
 ### Installation
-npm install sails-hook-email
+npm install sails-hook-email-tjennt
 
 ### Config in config/email.js
 ```
